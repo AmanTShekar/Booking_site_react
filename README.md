@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![aanandham.go Logo](client/src/assets/pnglogo.png)
 
 ### Experience the World, One Stay at a Time
 
